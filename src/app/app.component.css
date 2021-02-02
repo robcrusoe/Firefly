@@ -1,0 +1,16 @@
+.ngx-skeleton-container__section {
+    margin: 1.25rem 0;
+}
+
+.ngx-skeleton-content__section {
+    display: flex;
+    flex-direction: row;
+}
+
+.ngx-skeleton-item__circle {
+    /* width: 25%; */
+}
+
+.ngx-skeleton-item__lines {
+    flex: 1;
+}

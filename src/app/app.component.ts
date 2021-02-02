@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Firefly';
+  count: number = 5;
+
+  getCircleCount(): number {
+    return 1;
+  }
+
+  getLineCount(): number {
+    return 1;
+  }
 }
